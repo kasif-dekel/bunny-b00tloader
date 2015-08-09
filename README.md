@@ -4,9 +4,9 @@ A [DC9723](http://dc9723.org/) (DEFCON IL) member posted a RE challenge to the f
 
 ![alt tag](http://up415.siz.co.il/up1/od4izm3jinvi.png)
 
-Well, i love challenges so i decided to try and solve this one.
+Well, I love challenges so i decided to try and solve this one.
 
-I downloaded the zip archive and there are 2 files: 
+I downloaded the zip archive and there were two files: 
 
 1. Bunny.txt - 
 > The Backstory:
@@ -70,6 +70,8 @@ So, first look (as you can see, now it is more easy to understand the code):
 Okay so lets run this boot loader inside bochs and see what happens:
 
 ![alt tag](http://up415.siz.co.il/up3/o5tnmkg3diyn.png)
+
+# Looking For A Solution
 
 After exploring the code a little bit you can notice this call:
 
