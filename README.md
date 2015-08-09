@@ -139,4 +139,4 @@ So we can reveal the correct password simply by doing the reverse operations (si
 
 ![alt tag](http://up415.siz.co.il/up2/dktbzgymnewd.png)
 
-Good Luck.
+Good Luck (All your bases belongs to us -*evilface*-).
